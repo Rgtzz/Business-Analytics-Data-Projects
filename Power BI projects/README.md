@@ -1,8 +1,10 @@
-![Bike Shop Power BI Demo](POWER.BI.gif)
+
+                                                    PRESS PLAY TO SEE THE DEMO
+![Bike Shop Power BI Demo](POWER.BI.gif)                  
   
 
 
-PRESS PLAY TO SEE THE DEMO
+
 This project is made with a FICTIONAL DATABASE, meaning no information from any REAL company was leaked.
 
 
