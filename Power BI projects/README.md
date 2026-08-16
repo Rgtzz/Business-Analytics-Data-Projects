@@ -1,9 +1,4 @@
-
-
-                         PLAY DEMO
-
-
-![Bike Shop Power BI Preview](Preview%20Video%20Dashboard.gif)                    
+![Bike Shop Power BI Demo](Preview%20Video%20Dashboard.gif)                  
 
 
 
