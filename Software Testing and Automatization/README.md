@@ -1,4 +1,4 @@
-![Web Page Testing](preview%)
+
 
 In this folder, you are going to create different projects and TEST cases for businesses in real life. There are a couple of examples here that explore the automation
 and testing of different companies and their websites. 
