@@ -1,4 +1,4 @@
-![Bike Shop Power BI Demo](POWER%20.BI.gif)                  
+![Bike Shop Power BI Demo](POWER.BI.gif)            
 
 
 
