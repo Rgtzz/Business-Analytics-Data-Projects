@@ -1,8 +1,8 @@
-<img width="800" height="451" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/ff630ae7-0e00-4e80-9fbb-8349c1fbcbc1" />
+![Bike Shop Power BI Demo](POWER.BI.gif)
   
 
 
-
+PRESS PLAY TO SEE THE DEMO
 This project is made with a FICTIONAL DATABASE, meaning no information from any REAL company was leaked.
 
 
